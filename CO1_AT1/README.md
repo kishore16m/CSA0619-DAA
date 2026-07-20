@@ -1,4 +1,4 @@
-\# CO1\_AT1
+\CO1\_AT1
 
 
 
@@ -6,7 +6,7 @@ This repository contains solutions for CO1 Assessment Task 1.
 
 
 
-\## Contents
+\ Contents
 
 
 
